@@ -1,0 +1,64 @@
+body
+{
+	Background-color: Grey;
+	Color: violet; 
+	margin: 10%;
+	font-size:120%;
+
+}
+
+h2 
+{	
+	Color: Black;
+	font-size:300%; 
+	text-align:center; 
+}
+#para1
+{
+	font-family:Times new roman;
+	font-size:150%;
+}
+#table1,th,tr 
+{
+	text-align:center; 
+	Border:1px solid black;
+	Border-collapse:collapse;
+	font-size:130%;
+	padding:10px;
+	font-family:Comic Sans Ms; 
+}
+h3
+{
+	color: Black;
+	font-size:200%;
+	text-align:center;
+	
+}
+#para2
+{
+	text-align:left;
+	font-family:Times new roman;
+	Color: violet;
+	font-size:150%;
+}
+#para3
+{
+	text-align:left;
+	font-family:Times new roman;
+	Color: violet;
+	font-size:150%;
+	
+}
+#para4
+{
+	font-family:Times new roman;
+	Color: violet;
+	font-size:150%;
+	
+}
+img
+{
+	display: block;
+	margin:0 auto;
+}
+

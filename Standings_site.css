@@ -1,0 +1,28 @@
+Body
+{
+	background-color: grey;
+	Color:lightgreen;
+	font-size:150%;
+	
+}
+Table,th,td 
+{
+	text-align:center;
+	border: 1px solid black;
+	border-collapse:collapse;
+	padding:10px;
+	font-family:courier;
+	background-image:url('NBAStandings.jpg')
+}
+h1
+{
+	color:Firebrick;
+}
+h2
+{
+	color:Firebrick;
+}
+#para1
+{
+	
+}
