@@ -1,16 +1,43 @@
 Body
 { 
 	Background-color:Grey;
-	Color:White;
+	Color:black;
 	Font-size:140%;
-}
+	background-image:url('NBAOffseason.jpeg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	float:center;
+	background-size:1280px;
+} 
 #para1
 {
-		
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 }
+	/* #para1 is my paragraph to describe what the NBA offseason is */
 h1
 {
 	text-align:center;
 	font-size:200%;
 	color:Blue;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 }
+#table1,th,tr 
+{
+	text-align:center; 
+	Border:1px solid black;
+	Border-collapse:collapse;
+	font-size:130%;
+	padding:10px;
+	font-family:Comic Sans Ms; 
+}
+#para2
+{
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
+}
+	/* #para2 is my paragraph to describe what the NBA Draft is */
