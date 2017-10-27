@@ -2,11 +2,52 @@ Body
 {
 	text-align:left;
 	background-color:Grey;
-	color:White;
+	color:black;
 	font-size:130%;
+	background-image:url('NBAplayoffs.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	float:center;
+	background-size:1280px 880px;
+	
 }
 img
 {
 	display: block;
 	margin:0 auto;
+}
+#table1,th,tr 
+{
+	text-align:center; 
+	Border:1px solid black;
+	Border-collapse:collapse;
+	font-size:130%;
+	padding:10px;
+	font-family:Comic Sans Ms; 
+}
+h1
+{
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
+	color:Red;
+}
+#para1
+{
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
+}
+#para2
+{
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
+}
+h2
+{
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
+	color:red;
 }
