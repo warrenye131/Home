@@ -4,7 +4,7 @@ body
 	Color: black; 
 	margin: 10%;
 	font-size:120%;
-	background-image:url('NBAbackground.jpg');
+	background-image:url('images/NBAbackground.jpg');
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	float:center;
