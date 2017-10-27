@@ -1,9 +1,14 @@
 body
 {
 	Background-color: Grey;
-	Color: violet; 
+	Color: black; 
 	margin: 10%;
 	font-size:120%;
+	background-image:url('NBAbackground.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	float:center;
+	background-size:1280px;
 
 }
 
@@ -11,13 +16,20 @@ h2
 {	
 	Color: Black;
 	font-size:300%; 
-	text-align:center; 
+	text-align:center;
+  	filter: alpha(opacity=60);
+  	opacity: 0.8; 
+  	background-color:white;
 }
 #para1
 {
 	font-family:Times new roman;
 	font-size:150%;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 }
+/* #para1 is my paragraph to describe what the NBA is */
 #table1,th,tr 
 {
 	text-align:center; 
@@ -32,28 +44,40 @@ h3
 	color: Black;
 	font-size:200%;
 	text-align:center;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 	
 }
 #para2
 {
 	text-align:left;
 	font-family:Times new roman;
-	Color: violet;
+	Color: black;
 	font-size:150%;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 }
 #para3
 {
 	text-align:left;
 	font-family:Times new roman;
-	Color: violet;
+	Color:#black;
 	font-size:150%;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 	
 }
 #para4
 {
 	font-family:Times new roman;
-	Color: violet;
+	Color: black;
 	font-size:150%;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 	
 }
 img
@@ -61,4 +85,12 @@ img
 	display: block;
 	margin:0 auto;
 }
-
+.para5
+{
+	font-size:150%;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
+	color:red;
+} 
+/* ,para5 is my list to tell others what NBA teams there are */
