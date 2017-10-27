@@ -3,7 +3,7 @@ Body
 	background-color: grey;
 	Color:green;
 	font-size:150%;
-	background-image:url('images/basketball.jpg');
+	background-image:url(images/basketball.jpg);
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	float:center;
@@ -17,7 +17,7 @@ Table,th,td
 	border-collapse:collapse;
 	padding:10px;
 	font-family:courier;
-	background-image:url('images/NBAStandings.jpg')
+	background-image:url(images/NBAStandings.jpg)
 }
 h1
 {
