@@ -1,8 +1,13 @@
 Body
 {
 	background-color: grey;
-	Color:lightgreen;
+	Color:green;
 	font-size:150%;
+	background-image:url('basketball.jpg');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	float:center;
+	background-size:1280px;
 	
 }
 Table,th,td 
@@ -17,12 +22,29 @@ Table,th,td
 h1
 {
 	color:Firebrick;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 }
 h2
 {
 	color:Firebrick;
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
 }
 #para1
 {
-	
+	background-color:white;
+	filter: alpha(opacity=60);
+	opacity:0.8;
+}
+#table1,th,tr 
+{
+	text-align:center; 
+	Border:1px solid black;
+	Border-collapse:collapse;
+	font-size:130%;
+	padding:10px;
+	font-family:Comic Sans Ms; 
 }
